@@ -2,7 +2,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 **Aplicación móvil para gestión de entregas sostenibles en bicicleta**
 
@@ -135,7 +134,5 @@ flutter run -d ios
 ---
 
 <div align="center">
-
-[⬆ Volver arriba](#-greengo-logistics)
 
 </div>
